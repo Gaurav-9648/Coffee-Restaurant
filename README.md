@@ -241,8 +241,6 @@ Login:
 ---
 
 ## 👨‍💻 Author
-
-**Your Name**
 GAURAV MISHRA
 ---
 
